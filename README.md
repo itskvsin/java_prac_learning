@@ -10,7 +10,7 @@ Each assignment is organized by topic or submission order as received.
 /Assignment-1
 ```
 
-## 📄 Assignment 1 Questions
+## 📄 Questions
 
 <details>
   <summary>Click to view Assignment 1 Questions</summary>
