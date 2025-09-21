@@ -33,6 +33,6 @@ class ques10{
 
 
 
-        // askIn.close();
+        askIn.close();
     }
 }

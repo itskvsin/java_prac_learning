@@ -23,5 +23,7 @@ class ques8{
             System.out.println("The year is not a leap year");
         }
 
+        askIn.close();
+
     }
 }
